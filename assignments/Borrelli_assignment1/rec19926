@@ -1,0 +1,31 @@
+Borrelli_assignment1/:
+total 12
+drwxr-xr-x. 3 myid   28 Sep 26 13:05 bin
+-rwxr-xr-x. 1 myid  432 Sep 30 11:10 build.sh
+-rw-r--r--. 1 myid   17 Sep 27 14:31 input.txt
+-rw-r--r--. 1 myid 2633 Sep 30 11:09 Readme.txt
+-rw-r--r--. 1 myid    0 Sep 30 11:31 rec19926
+drwxr-xr-x. 3 myid   20 Sep 26 12:38 src
+
+Borrelli_assignment1/bin:
+total 0
+drwxr-xr-x. 2 myid 130 Sep 26 13:20 cs2720
+
+Borrelli_assignment1/bin/cs2720:
+total 20
+-rw-r--r--. 1 myid  460 Sep 30 11:28 ItemType.class
+-rw-r--r--. 1 myid 5216 Sep 30 11:28 LinkedListDriver.class
+-rw-r--r--. 1 myid  267 Sep 30 11:28 NodeType.class
+-rw-r--r--. 1 myid 3300 Sep 30 11:28 SortedLinkedList.class
+
+Borrelli_assignment1/src:
+total 0
+drwxr-xr-x. 2 myid 106 Sep 30 11:28 cs2720
+
+Borrelli_assignment1/src/cs2720:
+total 24
+-rw-r--r--. 1 myid  761 Sep 29 22:58 ItemType.java
+-rw-r--r--. 1 myid 7760 Sep 30 11:28 LinkedListDriver.java
+-rw-r--r--. 1 myid  244 Sep 29 22:57 NodeType.java
+-rw-r--r--. 1 myid 8042 Sep 29 23:08 SortedLinkedList.java
+/home/myid/crb70853/cs2720/assignments/Borrelli_assignment1/:/home/myid/csci-2720c

@@ -1,0 +1,31 @@
+Borrelli_assignment3/:
+total 24
+drwxr-xr-x. 3 myid   28 Oct 25 15:11 bin
+-rwxr-xr-x. 1 myid  403 Oct 29 13:19 build.sh
+-rw-r--r--. 1 myid   37 Oct 25 15:02 double-input1.txt
+-rw-r--r--. 1 myid   28 Oct 25 15:02 int-input1.txt
+-rw-r--r--. 1 myid 6509 Oct 29 13:14 Readme.txt
+-rw-r--r--. 1 myid    0 Oct 29 13:20 rec18640
+drwxr-xr-x. 3 myid   28 Oct 25 15:04 src
+-rw-r--r--. 1 myid   31 Oct 25 15:02 string-input1.txt
+
+Borrelli_assignment3/bin:
+total 0
+drwxr-xr-x. 2 myid 110 Oct 25 15:21 cs2720
+
+Borrelli_assignment3/bin/cs2720:
+total 20
+-rw-r--r--. 1 myid 4761 Oct 29 13:19 BinarySearchTree.class
+-rw-r--r--. 1 myid 5113 Oct 29 13:19 BinarySearchTreeDriver.class
+-rw-r--r--. 1 myid  416 Oct 29 13:19 NodeType.class
+
+Borrelli_assignment3/src:
+total 0
+drwxr-xr-x. 2 myid 107 Oct 27 20:16 cs2720
+
+Borrelli_assignment3/src/cs2720:
+total 32
+-rw-r--r--. 1 myid  8970 Oct 27 20:09 BinarySearchTreeDriver.java
+-rw-r--r--. 1 myid 13275 Oct 27 20:16 BinarySearchTree.java
+-rw-r--r--. 1 myid   305 Oct 26 20:27 NodeType.java
+/home/myid/crb70853/cs2720/assignments/Borrelli_assignment3/:/home/myid/csci-2720c
